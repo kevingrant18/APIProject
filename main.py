@@ -5,6 +5,9 @@ import random
 import requests
 from discord.ext import commands
 
+
+#will this show up to github
+
 intents = discord.Intents.all()
 
 bot = commands.Bot(command_prefix='!',intents=intents)
